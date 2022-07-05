@@ -14,7 +14,8 @@ NeST was accepted at [ANRW'20](https://irtf.org/anrw/2020/).
 **NOTE**: NeST is currently in beta stage.
 
 ## Fat Tree Topology
-Fat Tree Topology is used in data center networks to loadbalance several requests.This repo contributed base class topohelper and Fat tree topology helper to NEST
-## Contributing
+Fat Tree Topology is used in data center networks to loadbalance several requests.This repo contributed base class topohelper and Fat tree topology helper to NEST that could be futuristically useful
+## References
+https://en.wikipedia.org/wiki/Fat_tree 
 
-To contribute, read [CONTRIBUTING.md](https://gitlab.com/nitk-nest/nest/-/blob/master/CONTRIBUTING.md)
+https://blogchinmaya.blogspot.com/2017/04/what-is-fat-tree-and-how-to-construct.html
